@@ -1,0 +1,47 @@
+/* * {
+    padding: 2px;
+    font-size: 20px;
+} */
+
+.Mission {
+    background-color: rgb(250, 241, 228);
+    margin: 20px;
+    padding: 60px;
+    font-size: 20px;
+}
+
+.Header {
+    padding: 10px;
+    background-color: #7548b9;
+    color: white;
+}
+
+.HeaderLink {
+    margin-right: 10%;
+}
+
+.Header a {
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
+
+.Header a:hover {
+    color: #150231;
+}
+
+.Chat {
+    background-color: #ebe2f8;
+    margin: 20px;
+    padding: 60px;
+    font-size: 20px;
+}
+
+.PatientList {
+    margin-left: 20%;
+    padding: 20px;
+}
+
+.TherapistDashboard {
+    margin-left: 10%;
+}

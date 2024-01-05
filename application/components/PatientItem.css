@@ -1,0 +1,29 @@
+.patient-table {
+  width: 100%;
+  justify-content: center;
+}
+
+.patient-table th,
+.patient-table td,
+button {
+  border: 1px solid #5e30a3;
+  padding: 8px;
+  text-align: left;
+}
+
+.patient-table th {
+  background-color: #ede7f6;
+  font-weight: bold;
+}
+
+.patient-table tr:nth-child(even) {
+  background-color: #e3d8f3;
+}
+
+.patient-table tr:hover {
+  background-color: #b69fd8;
+}
+
+.patient-table button:hover {
+  background-color: #7b659c;
+}
